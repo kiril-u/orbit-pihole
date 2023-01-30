@@ -1,14 +1,10 @@
 # for deco-m5
-0.0.0.0 live.com
-0.0.0.0 bing.com
-0.0.0.0 time.windows.com
-0.0.0.0 a.root-servers.net
-0.0.0.0 reddit.com
-0.0.0.0 linkedin.com
-0.0.0.0 google.com
-0.0.0.0 facebook.com
-0.0.0.0 amazon.com
-0.0.0.0 time-ios.apple.com
-0.0.0.0 time-a.nist.gov
-0.0.0.0 time-b.nist.gov <https://otx.alienvault.com/indicator/hostname/time-b.nist.gov>
-0.0.0.0 apple.com
+live.com
+bing.com
+time.windows.com
+a.root-servers.net
+reddit.com
+linkedin.com
+google.com
+facebook.com
+amazon.com
