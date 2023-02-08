@@ -2,7 +2,7 @@
 if [ -f ./hosts ]; then
     mv hosts hosts.old
 fi
-cat kirils-hosts.1 kirils-hosts.2 kirils-hosts.3 kirils-hosts.4 kirils-hosts.5 kirils-hosts.6 > hosts.temp
+cat kirilhosts.0 kirilhosts.1 kirilhosts.2 kirilhosts.3 kirilhosts.4 kirilhosts.5 kirilhosts.6 kirilhosts.7 kirilhosts.8 kirilhosts.9 > hosts.temp
 awk '!seen[$0]++' hosts.temp > hosts
+# perl -i -ne 'print if ! $x{$_}++' hosts.temp2 > hosts
 rm hosts.temp
-git add hosts
