@@ -43,3 +43,8 @@ playatoms-pa.googleapis.com
 nexus-websocket-a.intercom.io
 footprints-pa.googleapis.com
 dit.whatsapp.net
+ipv4only.arpa
+chrome.cloudflare-dns.com
+location.services.mozilla.com
+nsf-2.dropbox.com
+safebrowsing.googleapis.com
