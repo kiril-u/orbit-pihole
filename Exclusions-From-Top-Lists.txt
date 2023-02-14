@@ -48,3 +48,9 @@ chrome.cloudflare-dns.com
 location.services.mozilla.com
 nsf-2.dropbox.com
 safebrowsing.googleapis.com
+fedoraproject.org
+www.youtube.com
+copr-be.cloud.fedoraproject.org
+sponsor.ajay.app
+xp.apple.com
+profile.accounts.firefox.com

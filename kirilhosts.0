@@ -9,6 +9,18 @@ ff02::2    ip6-allrouters
 
 0.0.0.0 0.0.0.0
 # ------ start kiril-u's list ------
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 sentry-cdn.com
+0.0.0.0 tag.weezmo.com
+0.0.0.0 weezmo.com
+0.0.0.0 js.intercomcdn.com
+0.0.0.0 intercomcdn.com
+0.0.0.0 acoustic-adm.com
+0.0.0.0 sc.pages06.net
+0.0.0.0 pages06.net
+0.0.0.0 data.flurry.com
+0.0.0.0 geoar.googleapis.com
+0.0.0.0 api.map.baidu.com
 0.0.0.0 rr1---sn-ivuoxu-ua8z.googlevideo.com # <YouTube Ad>
 0.0.0.0 dynamicyield.com
 0.0.0.0 cdn-eu.dynamicyield.com
@@ -89,7 +101,8 @@ ff02::2    ip6-allrouters
 0.0.0.0 a127f19e53a9411ea80b80689a129d10-666438813.eu-west-1.elb.amazonaws.com
 0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 adeventtracker.spotify.com
-# 0.0.0.0 location.services.mozilla.com
+0.0.0.0 location.services.mozilla.com
+0.0.0.0 incoming.telemetry.mozilla.org
 # 0.0.0.0 ssl.google-analytics.com
 # 0.0.0.0 encrypted-tbn0.gstatic.com
 0.0.0.0 config.edge.skype.com
@@ -171,7 +184,7 @@ ff02::2    ip6-allrouters
 # 0.0.0.0 mc.webvisor.org
 # 0.0.0.0 mc.yandex.com
 # 0.0.0.0 mc.yandex.ru
-# 0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gcp.gvt2.com
 # 0.0.0.0 gvt2.com
 0.0.0.0 mozgcp.net # <Web Analytics>
 0.0.0.0 addthis.com # <Ads>
