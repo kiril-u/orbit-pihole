@@ -9,6 +9,9 @@ ff02::2    ip6-allrouters
 
 0.0.0.0 0.0.0.0
 # ------ start kiril-u's list ------
+0.0.0.0 analytics.languagetoolplus.com
+0.0.0.0 helpcleanmasterlite1.ksmobile.com
+0.0.0.0 ksmobile.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 sentry-cdn.com
 0.0.0.0 tag.weezmo.com
