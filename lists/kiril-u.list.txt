@@ -1,6 +1,6 @@
 # Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [2023/Feb/19]
 127.0.0.1  localhost
-127.0.1.1  jerusalem
+127.0.1.1  jerusalem.lv
 ::1        localhost ip6-localhost ip6-loopback
 ff02::1    ip6-allnodes
 ff02::2    ip6-allrouters
@@ -49,7 +49,6 @@ ff02::2    ip6-allrouters
 0.0.0.0 ads.vungle.com
 0.0.0.0 adsessionserv.com
 0.0.0.0 adx.ads.vungle.com
-0.0.0.0 amazon-adsystem.com
 0.0.0.0 analytics.innologica.com
 0.0.0.0 analytics.languagetoolplus.com
 0.0.0.0 api-alexa-router.tplinknbu.com
@@ -135,7 +134,6 @@ ff02::2    ip6-allrouters
 0.0.0.0 ntp.eye4.cn
 0.0.0.0 ntp2.eye4.cn
 0.0.0.0 o83171.ingest.sentry.io
-0.0.0.0 outbrain.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pages06.net
 0.0.0.0 permutive.com
@@ -168,7 +166,6 @@ ff02::2    ip6-allrouters
 0.0.0.0 time-a.nist.gov
 0.0.0.0 time-b.nist.gov
 0.0.0.0 time-ios.apple.com
-0.0.0.0 tiqcdn.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 traffic.megaphone.fm
 0.0.0.0 tsyndicate.com
