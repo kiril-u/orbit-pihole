@@ -9,13 +9,9 @@
 *.4~
 
 *.0~
-kirilhosts.1
-kirilhosts.2
-kirilhosts.3
-kirilhosts.4
-kirilhosts.5
-kirilhosts.6
-kirilhosts.7
-kirilhosts.8
-kirilhosts.9
 
+kirilhosts.*
+
+
+
+.idea/
