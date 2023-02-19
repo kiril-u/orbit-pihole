@@ -1,0 +1,70 @@
+# 0.0.0.0 140.82.121.3
+# 0.0.0.0 audio-fa-quic.spotifycdn.com
+# 0.0.0.0 auth-callback.spotify.com
+# 0.0.0.0 beacons.gvt2.com
+# 0.0.0.0 bt.t-ru.org <rutracker>
+# 0.0.0.0 bt4.t-ru.org <rutracker>
+# 0.0.0.0 connect.facebook.net/en_US/fbevents.js
+# 0.0.0.0 connect.facebook.net/he_IL/sdk.js
+# 0.0.0.0 cse.google.com
+# 0.0.0.0 e673.dsce9.akamaiedge.net # interferes with music.apple.com
+# 0.0.0.0 encrypted-tbn0.gstatic.com
+# 0.0.0.0 geller-pa.googleapis.com
+# 0.0.0.0 googlesyndication.com # <Ads>
+# 0.0.0.0 graph-fallback.facebook.com
+# 0.0.0.0 graph.facebook.com
+# 0.0.0.0 gvt2.com
+# 0.0.0.0 houzz.com
+# 0.0.0.0 mc.webvisor.org
+# 0.0.0.0 mc.yandex.com
+# 0.0.0.0 mc.yandex.ru
+# 0.0.0.0 spotify-alternate.test-app.link
+# 0.0.0.0 spotify.app.link
+# 0.0.0.0 spotify.test-app.link
+# 0.0.0.0 ssl.google-analytics.com
+# 0.0.0.0 static.2mdn.net # <affects YouTube>
+# 0.0.0.0 tapi.pureapk.com
+# 0.0.0.0 tpc.googlesyndication.com
+# 0.0.0.0 userlocation.googleapis.com
+# 0.0.0.0 versicherungsvermittlung.de # <spyware and malware>
+# 0.0.0.0 www3.l.google.com
+###############################################################################################################
+# Spotify's Anti-Adveritsing  (DONT BLOCK THESE!)                                                             #
+# gcdn.2mdn.net                                                                                               #
+# r9---sn-n4v7kn76.c.2mdn.net                                                                                 #
+# gew1-accesspoint-b-zzfg.ap.spotify.com                                                                      #
+# ns1.p23.dynect.net                                                                                          #
+# ns3.p23.dynect.net                                                                                          #
+# ns4.p23.dynect.net                                                                                          #
+# dns1.p07.nsone.net                                                                                          #
+# dns2.p07.nsone.net                                                                                          #
+# dns3.p07.nsone.net                                                                                          #
+# dns4.p07.nsone.net                                                                                          #
+# audio-sp-fra2.pscdn.co                                                                                      #
+# 104.199.65.11                                                                                               #
+# apresolve.spotify.com <-- access point list also used for chromecast                                        #
+# api-spotify.com                                                                                             #
+# api-partner.spotify.com                                                                                     #
+# api-tv.spotify.com                                                                                          #
+# ash-dealer.spotify.com <-- Load balancer                                                                    #
+# ash.weblb-wg.dual-gslb.spotify.com <-- Load balancer                                                        #
+# audio-sp.spotify.com  <-- Audio server!                                                                     #
+# audio-fa.spotify.com  <-- Audio server!                                                                     #
+# dealer.spotify.com                                                                                          #
+# dealer-ssl.spotify.com                                                                                      #
+# gslb.spotify.com                                                                                            #
+# open.scdn.co                                                                                                #
+# open.spotify.com  <-- web player, you can block this for app only                                           #
+# play.spotify.com  <-- web player, you can block this for app only                                           #
+# spclient.spotify.com                                                                                        #
+# sto3.spotify.com                                                                                            #
+# wg.spotify.com <-- (*) Breaks entire app                                                                    #
+# geo3.ggpht.com <-- Just dont block!                                                                         #
+# googlehosted.l.googleusercontent.com <-- Just dont block!                                                   #
+# redirector.gvt1.com <-- prevents installation of Firefox & Chrome extensions                                #
+# tv.scdn.co                                                                                                  #
+# i.scdn.co <-- album covers                                                                                  #
+# o.scdn.co <-- more images                                                                                   #
+# p.scdn.co <-- maybe profile images                                                                          #
+# t.scdn.co <-- maybe images for charts                                                                       #
+#############################################################################################################@#

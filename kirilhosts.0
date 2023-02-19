@@ -1,44 +1,14 @@
-# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE
-# Part 1 of 6, contains: Kiril's List
-# Last Updated: 2023/Feb/06
+# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [2023/Feb/19]
 127.0.0.1  localhost
-127.0.1.1  jerusalem.lv	jerusalem
+127.0.1.1  jerusalem
 ::1        localhost ip6-localhost ip6-loopback
 ff02::1    ip6-allnodes
 ff02::2    ip6-allrouters
 
-0.0.0.0 0.0.0.0
 # ------ start kiril-u's list ------
-# 0.0.0.0 140.82.121.3
-# 0.0.0.0 audio-fa-quic.spotifycdn.com
-# 0.0.0.0 auth-callback.spotify.com
-# 0.0.0.0 beacons.gvt2.com
-# 0.0.0.0 bt.t-ru.org <rutracker>
-# 0.0.0.0 bt4.t-ru.org <rutracker>
-# 0.0.0.0 connect.facebook.net/en_US/fbevents.js
-# 0.0.0.0 connect.facebook.net/he_IL/sdk.js
-# 0.0.0.0 cse.google.com
-# 0.0.0.0 e673.dsce9.akamaiedge.net # interferes with music.apple.com
-# 0.0.0.0 encrypted-tbn0.gstatic.com
-# 0.0.0.0 geller-pa.googleapis.com
-# 0.0.0.0 googlesyndication.com # <Ads>
-# 0.0.0.0 graph-fallback.facebook.com
-# 0.0.0.0 graph.facebook.com
-# 0.0.0.0 gvt2.com
-# 0.0.0.0 houzz.com
-# 0.0.0.0 mc.webvisor.org
-# 0.0.0.0 mc.yandex.com
-# 0.0.0.0 mc.yandex.ru
-# 0.0.0.0 spotify-alternate.test-app.link
-# 0.0.0.0 spotify.app.link
-# 0.0.0.0 spotify.test-app.link
-# 0.0.0.0 ssl.google-analytics.com
-# 0.0.0.0 static.2mdn.net # <affects YouTube>
-# 0.0.0.0 tapi.pureapk.com
-# 0.0.0.0 tpc.googlesyndication.com
-# 0.0.0.0 userlocation.googleapis.com
-# 0.0.0.0 versicherungsvermittlung.de # <spyware and malware>
-# 0.0.0.0 www3.l.google.com
+0.0.0.0 idx.cph.liveintent.com # <Ads>
+0.0.0.0 cph.liveintent.com
+0.0.0.0 liveintent.com
 0.0.0.0 38319541.adoric-om.com
 0.0.0.0 8242311.fls.doubleclick.net
 0.0.0.0 a127f19e53a9411ea80b80689a129d10-666438813.eu-west-1.elb.amazonaws.com
