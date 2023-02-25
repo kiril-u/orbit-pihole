@@ -1,11 +1,23 @@
-# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [2023/Feb/19]
-127.0.0.1  localhost
-127.0.1.1  jerusalem.lv
-::1        localhost ip6-localhost ip6-loopback
-ff02::1    ip6-allnodes
-ff02::2    ip6-allrouters
-
-# ------ start kiril-u's list ------
+# ~ { === KIRIL'S PI-HOLE AD-BLOCK AND TRACKERS LIST === } ~ #
+# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [Updated: 2023/Feb/26]
+# Direct Link: https://raw.githubusercontent.com/kiril-u/orbit-pihole/master/lists/kiril-u.list.txt
+# === LOCAL ADDRESSES === #
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+127.0.1.1 sinai
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+0.0.0.0 0.0.0.0
+# ==================== #
 0.0.0.0 go-mpulse.net
 0.0.0.0 quantserve.com
 0.0.0.0 outbrain.com
@@ -184,4 +196,4 @@ ff02::2    ip6-allrouters
 0.0.0.0 www369.ff-01.com
 0.0.0.0 xp.apple.com
 0.0.0.0 y8cf.adj.st
-# ------ end kiril-u's list ------
+# ------ end of kiril-u's list ------
