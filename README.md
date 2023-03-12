@@ -1,8 +1,10 @@
-# Kiril's Pihole Hosts List (orbit-pihole)
+# Orbit Pihole Hosts List
+
+Blocking ads, trackers, PUPs, et cetera. 
 
 ## Contents
 
-1. [Kiril's List](https://raw.githubusercontent.com/kiril-u/orbit-pihole/master/lists/kiril-u.list.txt)
+1. [Orbit List](https://raw.githubusercontent.com/kiril-u/orbit-pihole/master/lists/orbit.list.txt)
 2. [Giga Hosts List approximating 100MB of unique domains to block ](https://raw.githubusercontent.com/kiril-u/orbit-pihole/master/lists/giga.list.txt)
 3. [Domains to exclude from top lists](https://raw.githubusercontent.com/kiril-u/orbit-pihole/master/lists/Exclusions-From-Top-Lists.txt)
 4. [Whitelist (in the making)](https://raw.githubusercontent.com/kiril-u/orbit-pihole/master/lists/not-to-block.txt)
