@@ -18,6 +18,12 @@ ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 0.0.0.0 0.0.0.0
 # ==================== #
+0.0.0.0 addtoany.com
+0.0.0.0 static.addtoany.com
+0.0.0.0 openweb.com
+0.0.0.0 www.openweb.com
+0.0.0.0 jscdn.greeter.me
+0.0.0.0 greeter.me
 0.0.0.0 int08h.com
 0.0.0.0 tizen.org
 0.0.0.0 samsungvisioncloud.com
