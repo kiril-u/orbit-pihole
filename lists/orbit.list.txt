@@ -1,5 +1,5 @@
 # ~ { === ORBIT PI-HOLE AD-BLOCK AND TRACKERS LIST === } ~ #
-# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [Updated: 2023/Mar/12]
+# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [Updated: 2023/Mar/22]
 # Direct Link: https://raw.githubusercontent.com/kiril-u/orbit-pihole/master/lists/orbit.list.txt
 # === LOCAL ADDRESSES === #
 127.0.0.1 localhost
@@ -16,6 +16,26 @@ ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 0.0.0.0 0.0.0.0
 # ==================== #
+0.0.0.0 datadoghq-browser-agent.com
+0.0.0.0 www.datadoghq-browser-agent.com
+0.0.0.0 affiliates.forbes.com
+0.0.0.0 ads.forbes.com
+0.0.0.0 geolocation.forbes.com
+0.0.0.0 embed.ly
+0.0.0.0 i.embed.ly
+0.0.0.0 media.net
+0.0.0.0 contextual.media.net
+0.0.0.0 criteo.net
+0.0.0.0 sharethrough.com
+0.0.0.0 spot.im
+0.0.0.0 tinypass.com
+0.0.0.0 buy.tinypass.com
+0.0.0.0 cdn.tinypass.com
+0.0.0.0 ml314.com
+0.0.0.0 p-n.io
+0.0.0.0 piano.io
+0.0.0.0 connatix.com
+0.0.0.0 cxense.com
 0.0.0.0 38319541.adoric-om.com
 0.0.0.0 6sc.co
 0.0.0.0 8242311.fls.doubleclick.net
