@@ -1,5 +1,5 @@
 # ~ { === ORBIT PI-HOLE AD-BLOCK AND TRACKERS LIST === } ~ #
-# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [Updated: 2023/Mar/25]
+# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [Updated: 2023/May/05]
 # Direct Link: https://raw.githubusercontent.com/kiril-u/orbit-pihole/master/lists/orbit.list.txt
 # === {LOCAL ADDRESSES} === #
 127.0.0.1 localhost
@@ -16,6 +16,7 @@ ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 0.0.0.0 0.0.0.0
 # ==== { ORBIT LIST } ====== #
+0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 chromesyncpasswords-pa.googleapis.com
 0.0.0.0 time.android.com
 0.0.0.0 time1.android.com
