@@ -16,6 +16,10 @@ ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 0.0.0.0 0.0.0.0
 # ==== { ORBIT LIST } ====== #
+0.0.0.0 femetrics.grammarly.io
+0.0.0.0 static.ads.brave.com
+0.0.0.0 geo.ads.brave.com
+0.0.0.0 stats.tehila.gov.il
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 chromesyncpasswords-pa.googleapis.com
 0.0.0.0 time.android.com
