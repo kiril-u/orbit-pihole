@@ -16,8 +16,11 @@ ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 0.0.0.0 0.0.0.0
 # ==== { ORBIT LIST } ====== #
+0.0.0.0 helpcleanmasterlite1.ksmobile.com
+0.0.0.0 ksmobile.com
+0.0.0.0 spocs.getpocket.com
 0.0.0.0 appmetrica.yandex.com
-0.0.0.0 www.podtrac.com
+0.0.0.0 www.podtrac.com # might cause trouble with spotify video podcasts
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 static.ads.brave.com
 0.0.0.0 geo.ads.brave.com
