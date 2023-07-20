@@ -16,6 +16,17 @@ ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 0.0.0.0 0.0.0.0
 # ==== { ORBIT LIST } ====== #
+0.0.0.0 d27xxe7juh1us6.cloudfront.net
+0.0.0.0 jwplayer.com
+0.0.0.0 paybis.com
+0.0.0.0 trafficmanager.net
+0.0.0.0 beacons5.gvt3.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 gvt2.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 sdk.fra-01.braze.eu
+0.0.0.0 braze.eu
+0.0.0.0 braze.com
 0.0.0.0 helpcleanmasterlite1.ksmobile.com
 0.0.0.0 ksmobile.com
 0.0.0.0 spocs.getpocket.com
