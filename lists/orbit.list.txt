@@ -1,5 +1,5 @@
 # ~ { === ORBIT PI-HOLE AD-BLOCK AND TRACKERS LIST === } ~ #
-# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [Updated: 2023/June/29]
+# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [Updated: 2023/July/27]
 # Direct Link: https://raw.githubusercontent.com/kiril-u/orbit-pihole/master/lists/orbit.list.txt
 # === {LOCAL ADDRESSES} === #
 127.0.0.1 localhost
@@ -16,6 +16,7 @@ ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 0.0.0.0 0.0.0.0
 # ==== { ORBIT LIST } ====== #
+0.0.0.0 cmp.quantcast.com
 0.0.0.0 d27xxe7juh1us6.cloudfront.net
 0.0.0.0 jwplayer.com
 0.0.0.0 paybis.com
@@ -182,6 +183,7 @@ ff00::0 ip6-mcastprefix
 0.0.0.0 idx.cph.liveintent.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 sentry.io
 0.0.0.0 ingest.sentry.io
 0.0.0.0 int08h.com
 0.0.0.0 intercom.com
