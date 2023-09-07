@@ -16,6 +16,21 @@ ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 0.0.0.0 0.0.0.0
 # ==== { ORBIT LIST } ====== #
+0.0.0.0 ynet-reporters-1.firebaseapp.com
+0.0.0.0 npttech.com
+0.0.0.0 www.npttech.com
+0.0.0.0 cdn.permutive.com
+0.0.0.0 permutive.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 googleadservices.com
+0.0.0.0 ecdn.firstimpression.io
+0.0.0.0 firstimpression.io
+0.0.0.0 sf.exposebox.com
+0.0.0.0 exposebox.com
+0.0.0.0 server.exposebox.com
+0.0.0.0 software-support-number.net
+0.0.0.0 exelator.com
+0.0.0.0 cdn.exelator.com
 0.0.0.0 did.li
 0.0.0.0 use.typekit.net
 0.0.0.0 typekit.net
