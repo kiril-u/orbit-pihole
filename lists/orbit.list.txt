@@ -16,6 +16,9 @@ ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 0.0.0.0 0.0.0.0
 # ==== { ORBIT LIST } ====== #
+0.0.0.0 unity3d.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 treatment.grammarly.com
 0.0.0.0 extension.femetrics.grammarly.io
 0.0.0.0 femetrics.grammarly.io
