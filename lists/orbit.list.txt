@@ -16,6 +16,8 @@ ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 0.0.0.0 0.0.0.0
 # ==== { ORBIT LIST } ====== #
+0.0.0.0 wsproxy.prod.bzq.securingsam.com
+0.0.0.0 securingsam.com
 0.0.0.0 zendesk.com
 0.0.0.0 zdassets.com
 0.0.0.0 audioboom.zendesk.com
