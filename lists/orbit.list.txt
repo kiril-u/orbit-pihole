@@ -16,6 +16,11 @@ ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 0.0.0.0 0.0.0.0
 # ==== { ORBIT LIST } ====== #
+0.0.0.0 csp.withgoogle.com
+0.0.0.0 libp2p.io
+0.0.0.0 sg1.bootstrap.libp2p.io
+0.0.0.0 my5.bootstrap.libp2p.io
+0.0.0.0 _dnsaddr.bootstrap.libp2p.io
 0.0.0.0 wsproxy.prod.bzq.securingsam.com
 0.0.0.0 securingsam.com
 0.0.0.0 zendesk.com
