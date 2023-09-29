@@ -16,6 +16,17 @@ ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 0.0.0.0 0.0.0.0
 # ==== { ORBIT LIST } ====== #
+0.0.0.0 iterable.com
+0.0.0.0 api.iterable.com
+0.0.0.0 segment.io
+0.0.0.0 api.segment.io
+0.0.0.0 qzpjkj-launches.appsflyersdk.com
+0.0.0.0 ravelin.click
+0.0.0.0 live.ravelin.click
+0.0.0.0 c.riskified.com
+0.0.0.0 riskified.com
+0.0.0.0 f-log-extension.grammarly.io
+0.0.0.0 alive.github.com
 0.0.0.0 csp.withgoogle.com
 0.0.0.0 am6.bootstrap.libp2p.io
 0.0.0.0 sv15.bootstrap.libp2p.io
@@ -115,7 +126,6 @@ ff00::0 ip6-mcastprefix
 0.0.0.0 bcmls2.glpals.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacons.gcp.gvt2.com
-0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 bgumr.my.salesforce-sites.com
@@ -136,7 +146,6 @@ ff00::0 ip6-mcastprefix
 0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 cdn.exelator.com
 0.0.0.0 cdn.permutive.com
-0.0.0.0 cdn.pushwoosh.com
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn.statically.io
 0.0.0.0 cdn.taboola.com
@@ -155,7 +164,6 @@ ff00::0 ip6-mcastprefix
 0.0.0.0 connect.mixpanel.com
 0.0.0.0 consensu.org
 0.0.0.0 contextual.media.net
-0.0.0.0 cp.pushwoosh.com
 0.0.0.0 cph.liveintent.com
 0.0.0.0 crazyegg.com
 0.0.0.0 criteo.net
@@ -180,7 +188,6 @@ ff00::0 ip6-mcastprefix
 0.0.0.0 exposebox.com
 0.0.0.0 eye4.cn
 0.0.0.0 fembed.com
-0.0.0.0 femetrics.grammarly.io
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firstimpression.io
 0.0.0.0 fls.doubleclick.net
@@ -189,7 +196,6 @@ ff00::0 ip6-mcastprefix
 0.0.0.0 geolocation.forbes.com
 0.0.0.0 gihwyz.com
 0.0.0.0 glpals.com
-0.0.0.0 go-mpulse.net
 0.0.0.0 godpvqnszo.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
@@ -225,7 +231,6 @@ ff00::0 ip6-mcastprefix
 0.0.0.0 jwplayer.com
 0.0.0.0 krahsc.google.com
 0.0.0.0 ksmobile.com
-0.0.0.0 ksmobile.com
 0.0.0.0 l5k.me
 0.0.0.0 licdn.com
 0.0.0.0 links.f5h.co
@@ -258,7 +263,6 @@ ff00::0 ip6-mcastprefix
 0.0.0.0 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
 0.0.0.0 omtrdc.net
 0.0.0.0 onetag-sys.com
-0.0.0.0 openweb.com
 0.0.0.0 outbrain.com
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 p-n.io
@@ -271,7 +275,6 @@ ff00::0 ip6-mcastprefix
 0.0.0.0 polyfill.io
 0.0.0.0 provisioning-use2.mgmt.aibixby.com
 0.0.0.0 push.eye4.cn
-0.0.0.0 pushwoosh.com
 0.0.0.0 pv.sohu.com
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantserve.com
@@ -303,7 +306,6 @@ ff00::0 ip6-mcastprefix
 0.0.0.0 sf.exposebox.com
 0.0.0.0 sfsdk.jokergame.net
 0.0.0.0 sharethrough.com
-0.0.0.0 smartlook.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 software-support-number.net
 0.0.0.0 spocs.getpocket.com
@@ -366,7 +368,6 @@ ff00::0 ip6-mcastprefix
 0.0.0.0 www.intercom.com
 0.0.0.0 www.mobile-messenger.intercom.com
 0.0.0.0 www.npttech.com
-0.0.0.0 www.openweb.com
 0.0.0.0 www.podtrac.com # might cause trouble with spotify video podcasts
 0.0.0.0 www.tizen.org
 0.0.0.0 www294.ff-01.com
