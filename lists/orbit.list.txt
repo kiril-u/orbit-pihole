@@ -18,6 +18,8 @@ ff00::0 ip6-mcastprefix
 # ==== { ORBIT LIST } ====== #
 0.0.0.0 fecdn.user1st.info
 0.0.0.0 user1st.info
+0.0.0.0 posnord.net
+0.0.0.0 upstrackhelp.com
 0.0.0.0 iterable.com
 0.0.0.0 api.iterable.com
 0.0.0.0 segment.io
