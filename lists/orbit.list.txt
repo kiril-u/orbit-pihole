@@ -1,6 +1,6 @@
 # ~ { === ORBIT PI-HOLE AD-BLOCK AND TRACKERS LIST === } ~ #
-# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [Updated: 2023/September/13]
-# Direct Link: https://raw.githubusercontent.com/kiril-u/orbit-pihole/master/lists/orbit.list.txt
+# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [Updated: 2023/November/06]
+# Direct Link: <https://raw.githubusercontent.com/kiril-u/orbit-pihole/master/lists/orbit.list.txt>
 # === {LOCAL ADDRESSES} === #
 127.0.0.1 localhost
 127.0.1.1 sinai.lv pi.hole
