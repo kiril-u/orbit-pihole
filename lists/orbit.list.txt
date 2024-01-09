@@ -385,4 +385,6 @@ ff00::0 ip6-mcastprefix
 0.0.0.0 y8cf.adj.st
 0.0.0.0 ynet-reporters-1.firebaseapp.com
 0.0.0.0 uk-masterbating.website
+0.0.0.0 0censor.com
+0.0.0.0 www.0censor.com
 # ~ { === END ORBIT PI-HOLE AD-BLOCK AND TRACKERS LIST === } ~ #
