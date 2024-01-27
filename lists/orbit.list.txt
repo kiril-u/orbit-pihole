@@ -1,9 +1,9 @@
 # ~ { === ORBIT PI-HOLE AD-BLOCK AND TRACKERS LIST === } ~ #
-# Copyright (c) 2022-2023 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [Updated: 2023/November/06]
+# Copyright (c) 2022-2024 kiril-u <https://github.com/kiril-u/orbit-pihole> see LICENSE [Updated: 2023/November/06]
 # Direct Link: <https://raw.githubusercontent.com/kiril-u/orbit-pihole/master/lists/orbit.list.txt>
 # === {LOCAL ADDRESSES} === #
 127.0.0.1 localhost
-127.0.1.1 sinai.lv pi.hole
+127.0.1.1 zion.lv pi.hole
 255.255.255.255 broadcasthost
 ::1 localhost
 ::1 ip6-localhost
@@ -14,8 +14,11 @@ ff02::3 ip6-allhosts
 fe80::1%lo0 localhost
 ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
-0.0.0.0 0.0.0.0
 # ==== { ORBIT LIST } ====== #
+0.0.0.0 storage.googleapis.com
+0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 yastatic.net
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 optimizely.com
 0.0.0.0 mgln.ai
