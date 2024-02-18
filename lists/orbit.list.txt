@@ -15,7 +15,10 @@ fe80::1%lo0 localhost
 ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 # ==== { ORBIT LIST } ====== #
-0.0.0.0 storage.googleapis.com
+0.0.0.0 o1069899.ingest.sentry.io
+0.0.0.0 xgapromomanager-pa.googleapis.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 storage.googleapis.com 
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 yastatic.net
